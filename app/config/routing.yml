@@ -1,0 +1,10 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+
+# V3s3
+v3s3:
+    resource: "@V3s3Bundle/Controller/"
+    type:     annotation
+    prefix:   /
+# End V3s3
